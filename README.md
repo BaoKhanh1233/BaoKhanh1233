@@ -1,7 +1,7 @@
 
 ### <h2 align="center">🔥 GitHub Stats 🔥</h2> 
 <span>[<img src="https://github-readme-stats.vercel.app/api?username=BaoKhanh1233&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="175">](https://github-readme-stats.vercel.app/api?username=BaoKhanh1233)</span>
-<span>[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaoKhanh1233&theme=dracula" height="175">](https://github-readme-stats.vercel.app/api?username=BaoKhanh1233)</span>
+<span>[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaoKhanh1233&theme=radical&hide" height="175">](https://github-readme-stats.vercel.app/api?username=BaoKhanh1233)</span>
 <span>[<img src="https://github-readme-streak-stats.herokuapp.com/?user=BaoKhanh1233&theme=radical&hide_border=false" height="175">](https://github-readme-streak-stats.herokuapp.com/?user=BaoKhanh1233)</span>
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoKhanh1233&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoKhanh1233)</span>
 
